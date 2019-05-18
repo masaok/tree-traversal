@@ -62,7 +62,7 @@ node2.right = Node(3)
 
 assert(is_same_tree(node1, node2))
 
-# Tree are equal
+# Trees are equal
 node1 = Node(1)
 node1.left = Node(2)
 node1.left.left = Node(3)
